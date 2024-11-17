@@ -1,0 +1,6 @@
+python-telegram-bot
+openai
+python-dotenv
+PyPDF2
+langchain
+faiss-cpu

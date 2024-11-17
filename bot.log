@@ -1,0 +1,828 @@
+2024-11-17 04:15:16,706 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:15:16,724 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x3f7b for key /Subtype
+2024-11-17 04:15:16,742 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:15:16,781 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:15:16,815 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:15:16,851 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:15:16,867 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x411f for key /Subtype
+2024-11-17 04:15:16,887 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:15:16,921 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:15:16,956 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:15:16,992 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:15:17,003 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x2eea for key /Subtype
+2024-11-17 04:15:17,053 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:15:17,069 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x3d7b for key /Subtype
+2024-11-17 04:15:17,085 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:15:17,134 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:15:17,226 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:15:17,342 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:15:17,376 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:15:17,421 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:15:17,447 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x6d89 for key /Subtype
+2024-11-17 04:15:17,515 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x4918 for key /Subtype
+2024-11-17 04:15:17,758 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x2762 for key /Subtype
+2024-11-17 04:15:17,783 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:15:17,803 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x4c84 for key /Subtype
+2024-11-17 04:15:17,821 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:15:17,915 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:15:17,964 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:15:18,009 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:15:18,065 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:15:18,085 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x438a for key /Subtype
+2024-11-17 04:15:18,104 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:15:18,201 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:15:18,270 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:15:18,312 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:15:18,356 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:15:18,400 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:15:18,438 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:15:18,480 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:15:18,521 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:15:18,560 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:15:18,638 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:15:18,682 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:15:18,721 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:15:18,757 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:15:18,793 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:15:18,836 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:15:18,843 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x1de5 for key /Subtype
+2024-11-17 04:15:18,876 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:15:18,895 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x46b7 for key /Subtype
+2024-11-17 04:15:18,919 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:15:18,938 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x4fc0 for key /Subtype
+2024-11-17 04:15:18,962 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:15:18,979 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x46db for key /Subtype
+2024-11-17 04:15:19,006 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:15:19,026 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x45ba for key /Subtype
+2024-11-17 04:15:19,050 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:15:19,068 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x4821 for key /Subtype
+2024-11-17 04:15:19,089 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:15:19,105 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x3d31 for key /Subtype
+2024-11-17 04:15:19,130 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:15:19,145 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x4051 for key /Subtype
+2024-11-17 04:15:19,164 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:15:19,173 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x2601 for key /Subtype
+2024-11-17 04:15:19,188 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:15:19,202 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x3a14 for key /Subtype
+2024-11-17 04:15:19,216 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:15:19,243 - __main__ - ERROR - Error initializing vector store: Could not import tiktoken python package. This is needed in order to for OpenAIEmbeddings. Please install it with `pip install tiktoken`.
+2024-11-17 04:15:19,372 - __main__ - INFO - Bot started
+2024-11-17 04:15:22,154 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/getMe "HTTP/1.1 200 OK"
+2024-11-17 04:15:22,459 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/deleteWebhook "HTTP/1.1 200 OK"
+2024-11-17 04:15:22,462 - telegram.ext.Application - INFO - Application started
+2024-11-17 04:15:27,646 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/getUpdates "HTTP/1.1 200 OK"
+2024-11-17 04:15:28,548 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/sendMessage "HTTP/1.1 200 OK"
+2024-11-17 04:15:28,549 - __main__ - INFO - New user started the bot: 5628614147
+2024-11-17 04:15:37,921 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/getUpdates "HTTP/1.1 200 OK"
+2024-11-17 04:15:48,180 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/getUpdates "HTTP/1.1 200 OK"
+2024-11-17 04:15:58,505 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/getUpdates "HTTP/1.1 200 OK"
+2024-11-17 04:16:08,757 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/getUpdates "HTTP/1.1 200 OK"
+2024-11-17 04:16:19,087 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/getUpdates "HTTP/1.1 200 OK"
+2024-11-17 04:16:26,834 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/getUpdates "HTTP/1.1 200 OK"
+2024-11-17 04:16:26,836 - __main__ - INFO - Received message from user 5628614147: explicame acerca del extrañamiento según los textos que tienes en tu contexto...
+2024-11-17 04:16:27,838 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/sendChatAction "HTTP/1.1 200 OK"
+2024-11-17 04:16:32,806 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-17 04:16:33,197 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/sendMessage "HTTP/1.1 200 OK"
+2024-11-17 04:16:33,198 - __main__ - INFO - Sent response to user 5628614147, 4 messages remaining
+2024-11-17 04:16:37,082 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/getUpdates "HTTP/1.1 200 OK"
+2024-11-17 04:16:47,331 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/getUpdates "HTTP/1.1 200 OK"
+2024-11-17 04:16:57,693 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/getUpdates "HTTP/1.1 200 OK"
+2024-11-17 04:17:08,036 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/getUpdates "HTTP/1.1 200 OK"
+2024-11-17 04:17:18,379 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/getUpdates "HTTP/1.1 200 OK"
+2024-11-17 04:17:28,636 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/getUpdates "HTTP/1.1 200 OK"
+2024-11-17 04:17:33,548 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/getUpdates "HTTP/1.1 200 OK"
+2024-11-17 04:17:33,550 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2024-11-17 04:17:33,550 - telegram.ext.Application - INFO - Application.stop() complete
+2024-11-17 04:27:43,114 - __main__ - INFO - Initializing bot...
+2024-11-17 04:27:43,362 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:27:43,379 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x3f7b for key /Subtype
+2024-11-17 04:27:43,397 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:27:43,436 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:27:43,471 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:27:43,507 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:27:43,523 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x411f for key /Subtype
+2024-11-17 04:27:43,540 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:27:43,630 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:27:43,667 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:27:43,705 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:27:43,719 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x2eea for key /Subtype
+2024-11-17 04:27:43,739 - __main__ - INFO - Successfully read PDF: ./pdfs/7 Ficha Cultura y desigualdad.pdf
+2024-11-17 04:27:43,767 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:27:43,781 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x3d7b for key /Subtype
+2024-11-17 04:27:43,796 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:27:43,840 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:27:43,885 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:27:44,000 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:27:44,034 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:27:44,078 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:27:44,104 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x6d89 for key /Subtype
+2024-11-17 04:27:44,124 - __main__ - INFO - Successfully read PDF: ./pdfs/9 Ficha LA PERSPECTIVA DECOLONIAL.pdf
+2024-11-17 04:27:44,169 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x4918 for key /Subtype
+2024-11-17 04:27:44,435 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x2762 for key /Subtype
+2024-11-17 04:27:44,442 - __main__ - INFO - Successfully read PDF: ./pdfs/13. Ficha Antropología y Salud mental.pdf
+2024-11-17 04:27:44,461 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:27:44,479 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x4c84 for key /Subtype
+2024-11-17 04:27:44,498 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:27:44,547 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:27:44,593 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:27:44,635 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:27:44,667 - __main__ - INFO - Successfully read PDF: ./pdfs/8 Ficha CULTURAS POPULARES Y CONSUMO.pdf
+2024-11-17 04:27:44,696 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:27:44,713 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x438a for key /Subtype
+2024-11-17 04:27:44,731 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:27:44,774 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:27:44,814 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:27:44,852 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:27:44,938 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:27:44,977 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:27:45,013 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:27:45,054 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:27:45,093 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:27:45,132 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:27:45,175 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:27:45,232 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:27:45,279 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:27:45,323 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:27:45,365 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:27:45,451 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:27:45,465 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x1de5 for key /Subtype
+2024-11-17 04:27:45,487 - __main__ - INFO - Successfully read PDF: ./pdfs/11 Ficha ANTROPOLOGÍA Y ESTUDIOS DE GÉNERO.pdf
+2024-11-17 04:27:45,517 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:27:45,538 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x46b7 for key /Subtype
+2024-11-17 04:27:45,563 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:27:45,589 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x4fc0 for key /Subtype
+2024-11-17 04:27:45,625 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:27:45,673 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x46db for key /Subtype
+2024-11-17 04:27:45,751 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:27:45,773 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x45ba for key /Subtype
+2024-11-17 04:27:45,801 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:27:45,821 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x4821 for key /Subtype
+2024-11-17 04:27:45,845 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:27:45,863 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x3d31 for key /Subtype
+2024-11-17 04:27:45,889 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:27:45,906 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x4051 for key /Subtype
+2024-11-17 04:27:45,927 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:27:45,938 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x2601 for key /Subtype
+2024-11-17 04:27:45,954 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:27:45,972 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x3a14 for key /Subtype
+2024-11-17 04:27:45,996 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:27:45,999 - __main__ - INFO - Successfully read PDF: ./pdfs/10. Ficha Racismo.pdf
+2024-11-17 04:27:52,860 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-11-17 04:27:54,139 - __main__ - ERROR - Error initializing vector store: Could not import faiss python package. Please install it with `pip install faiss-gpu` (for CUDA supported GPU) or `pip install faiss-cpu` (depending on Python version).
+2024-11-17 04:27:54,142 - __main__ - INFO - Starting bot...
+2024-11-17 04:27:54,261 - __main__ - INFO - Bot started
+2024-11-17 04:27:54,261 - __main__ - ERROR - Failed to start bot: 'Application' object has no attribute 'run_until_stopped'
+2024-11-17 04:27:54,261 - __main__ - ERROR - Critical error: 'Application' object has no attribute 'run_until_stopped'
+2024-11-17 04:29:26,169 - __main__ - INFO - Initializing bot...
+2024-11-17 04:29:26,388 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:29:26,404 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x3f7b for key /Subtype
+2024-11-17 04:29:26,423 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:29:26,462 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:29:26,498 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:29:26,536 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:29:26,553 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x411f for key /Subtype
+2024-11-17 04:29:26,571 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:29:26,657 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:29:26,696 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:29:26,736 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:29:26,749 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x2eea for key /Subtype
+2024-11-17 04:29:26,780 - __main__ - INFO - Successfully read PDF: ./pdfs/7 Ficha Cultura y desigualdad.pdf
+2024-11-17 04:29:26,826 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:29:26,842 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x3d7b for key /Subtype
+2024-11-17 04:29:26,857 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:29:26,901 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:29:26,948 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:29:27,063 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:29:27,101 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:29:27,148 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:29:27,177 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x6d89 for key /Subtype
+2024-11-17 04:29:27,197 - __main__ - INFO - Successfully read PDF: ./pdfs/9 Ficha LA PERSPECTIVA DECOLONIAL.pdf
+2024-11-17 04:29:27,241 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x4918 for key /Subtype
+2024-11-17 04:29:27,541 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x2762 for key /Subtype
+2024-11-17 04:29:27,552 - __main__ - INFO - Successfully read PDF: ./pdfs/13. Ficha Antropología y Salud mental.pdf
+2024-11-17 04:29:27,581 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:29:27,601 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x4c84 for key /Subtype
+2024-11-17 04:29:27,620 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:29:27,670 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:29:27,718 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:29:27,761 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:29:27,793 - __main__ - INFO - Successfully read PDF: ./pdfs/8 Ficha CULTURAS POPULARES Y CONSUMO.pdf
+2024-11-17 04:29:27,818 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:29:27,839 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x438a for key /Subtype
+2024-11-17 04:29:27,859 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:29:27,913 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:29:27,964 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:29:28,008 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:29:28,111 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:29:28,169 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:29:28,209 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:29:28,254 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:29:28,296 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:29:28,339 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:29:28,385 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:29:28,437 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:29:28,479 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:29:28,522 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:29:28,564 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:29:28,614 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:29:28,623 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x1de5 for key /Subtype
+2024-11-17 04:29:28,635 - __main__ - INFO - Successfully read PDF: ./pdfs/11 Ficha ANTROPOLOGÍA Y ESTUDIOS DE GÉNERO.pdf
+2024-11-17 04:29:28,659 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:29:28,678 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x46b7 for key /Subtype
+2024-11-17 04:29:28,707 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:29:28,730 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x4fc0 for key /Subtype
+2024-11-17 04:29:28,755 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:29:28,774 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x46db for key /Subtype
+2024-11-17 04:29:28,902 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:29:28,922 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x45ba for key /Subtype
+2024-11-17 04:29:29,016 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:29:29,043 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x4821 for key /Subtype
+2024-11-17 04:29:29,073 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:29:29,096 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x3d31 for key /Subtype
+2024-11-17 04:29:29,163 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:29:29,209 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x4051 for key /Subtype
+2024-11-17 04:29:29,262 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:29:29,287 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x2601 for key /Subtype
+2024-11-17 04:29:29,333 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:29:29,377 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x3a14 for key /Subtype
+2024-11-17 04:29:29,434 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:29:29,443 - __main__ - INFO - Successfully read PDF: ./pdfs/10. Ficha Racismo.pdf
+2024-11-17 04:29:33,748 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-11-17 04:29:34,996 - __main__ - ERROR - Error initializing vector store: Could not import faiss python package. Please install it with `pip install faiss-gpu` (for CUDA supported GPU) or `pip install faiss-cpu` (depending on Python version).
+2024-11-17 04:29:34,998 - __main__ - INFO - Starting bot...
+2024-11-17 04:29:35,117 - __main__ - INFO - Bot started
+2024-11-17 04:29:36,088 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/getMe "HTTP/1.1 200 OK"
+2024-11-17 04:29:36,335 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/deleteWebhook "HTTP/1.1 200 OK"
+2024-11-17 04:29:36,338 - telegram.ext.Application - INFO - Application started
+2024-11-17 04:29:37,215 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/getUpdates "HTTP/1.1 200 OK"
+2024-11-17 04:29:37,609 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/sendMessage "HTTP/1.1 200 OK"
+2024-11-17 04:29:37,610 - __main__ - INFO - New user started the bot: 5628614147
+2024-11-17 04:29:44,961 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/getUpdates "HTTP/1.1 200 OK"
+2024-11-17 04:29:45,831 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/sendMessage "HTTP/1.1 200 OK"
+2024-11-17 04:29:45,832 - __main__ - INFO - New user started the bot: 5628614147
+2024-11-17 04:29:55,254 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/getUpdates "HTTP/1.1 200 OK"
+2024-11-17 04:29:59,664 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/getUpdates "HTTP/1.1 200 OK"
+2024-11-17 04:29:59,666 - __main__ - INFO - Received message from user 5628614147: explicame acerca del extrañamiento según los textos que tienes en tu contexto...
+2024-11-17 04:30:00,580 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/sendChatAction "HTTP/1.1 200 OK"
+2024-11-17 04:30:00,581 - __main__ - WARNING - Vector store not initialized. No documents to search.
+2024-11-17 04:30:12,887 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-17 04:30:12,898 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/getUpdates "HTTP/1.1 200 OK"
+2024-11-17 04:30:13,850 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/sendMessage "HTTP/1.1 200 OK"
+2024-11-17 04:30:13,850 - __main__ - INFO - Sent response to user 5628614147, 4 messages remaining
+2024-11-17 04:30:23,299 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/getUpdates "HTTP/1.1 200 OK"
+2024-11-17 04:30:33,638 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/getUpdates "HTTP/1.1 200 OK"
+2024-11-17 04:30:43,885 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/getUpdates "HTTP/1.1 200 OK"
+2024-11-17 04:30:54,135 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/getUpdates "HTTP/1.1 200 OK"
+2024-11-17 04:31:04,460 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/getUpdates "HTTP/1.1 200 OK"
+2024-11-17 04:31:14,907 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/getUpdates "HTTP/1.1 200 OK"
+2024-11-17 04:31:25,248 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/getUpdates "HTTP/1.1 200 OK"
+2024-11-17 04:31:35,591 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/getUpdates "HTTP/1.1 200 OK"
+2024-11-17 04:31:40,870 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/getUpdates "HTTP/1.1 200 OK"
+2024-11-17 04:31:40,872 - __main__ - INFO - Received message from user 5628614147: que dicen el texto llamado Ficha Cultura y desigualdad...
+2024-11-17 04:31:41,838 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/sendChatAction "HTTP/1.1 200 OK"
+2024-11-17 04:31:41,841 - __main__ - WARNING - Vector store not initialized. No documents to search.
+2024-11-17 04:31:54,759 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-17 04:31:54,763 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/getUpdates "HTTP/1.1 200 OK"
+2024-11-17 04:31:55,726 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/sendMessage "HTTP/1.1 200 OK"
+2024-11-17 04:31:55,726 - __main__ - INFO - Sent response to user 5628614147, 3 messages remaining
+2024-11-17 04:32:05,084 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/getUpdates "HTTP/1.1 200 OK"
+2024-11-17 04:32:15,425 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/getUpdates "HTTP/1.1 200 OK"
+2024-11-17 04:32:25,768 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/getUpdates "HTTP/1.1 200 OK"
+2024-11-17 04:32:33,143 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/getUpdates "HTTP/1.1 200 OK"
+2024-11-17 04:32:33,145 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2024-11-17 04:32:33,145 - telegram.ext.Application - INFO - Application.stop() complete
+2024-11-17 04:33:21,234 - __main__ - INFO - Initializing bot...
+2024-11-17 04:33:21,467 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:33:21,486 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x3f7b for key /Subtype
+2024-11-17 04:33:21,505 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:33:21,546 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:33:21,592 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:33:21,629 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:33:21,647 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x411f for key /Subtype
+2024-11-17 04:33:21,671 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:33:21,924 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:33:21,969 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:33:22,012 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:33:22,025 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x2eea for key /Subtype
+2024-11-17 04:33:22,046 - __main__ - INFO - Successfully read PDF: ./pdfs/7 Ficha Cultura y desigualdad.pdf
+2024-11-17 04:33:22,081 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:33:22,096 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x3d7b for key /Subtype
+2024-11-17 04:33:22,112 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:33:22,160 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:33:22,214 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:33:22,358 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:33:22,399 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:33:22,447 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:33:22,477 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x6d89 for key /Subtype
+2024-11-17 04:33:22,500 - __main__ - INFO - Successfully read PDF: ./pdfs/9 Ficha LA PERSPECTIVA DECOLONIAL.pdf
+2024-11-17 04:33:22,542 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x4918 for key /Subtype
+2024-11-17 04:33:22,964 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x2762 for key /Subtype
+2024-11-17 04:33:22,973 - __main__ - INFO - Successfully read PDF: ./pdfs/13. Ficha Antropología y Salud mental.pdf
+2024-11-17 04:33:23,003 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:33:23,037 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x4c84 for key /Subtype
+2024-11-17 04:33:23,070 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:33:23,210 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:33:23,285 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:33:23,368 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:33:23,443 - __main__ - INFO - Successfully read PDF: ./pdfs/8 Ficha CULTURAS POPULARES Y CONSUMO.pdf
+2024-11-17 04:33:23,484 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:33:23,514 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x438a for key /Subtype
+2024-11-17 04:33:23,537 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:33:23,594 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:33:23,639 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:33:23,681 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:33:23,776 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:33:23,820 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:33:23,861 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:33:23,918 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:33:23,979 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:33:24,036 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:33:24,084 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:33:24,137 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:33:24,214 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:33:24,272 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:33:24,311 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:33:24,358 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:33:24,366 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x1de5 for key /Subtype
+2024-11-17 04:33:24,378 - __main__ - INFO - Successfully read PDF: ./pdfs/11 Ficha ANTROPOLOGÍA Y ESTUDIOS DE GÉNERO.pdf
+2024-11-17 04:33:24,401 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:33:24,419 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x46b7 for key /Subtype
+2024-11-17 04:33:24,444 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:33:24,466 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x4fc0 for key /Subtype
+2024-11-17 04:33:24,499 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:33:24,517 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x46db for key /Subtype
+2024-11-17 04:33:24,605 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:33:24,623 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x45ba for key /Subtype
+2024-11-17 04:33:24,651 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:33:24,672 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x4821 for key /Subtype
+2024-11-17 04:33:24,705 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:33:24,725 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x3d31 for key /Subtype
+2024-11-17 04:33:24,747 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:33:24,770 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x4051 for key /Subtype
+2024-11-17 04:33:24,795 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:33:24,807 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x2601 for key /Subtype
+2024-11-17 04:33:24,834 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:33:24,860 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x3a14 for key /Subtype
+2024-11-17 04:33:24,879 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:33:24,885 - __main__ - INFO - Successfully read PDF: ./pdfs/10. Ficha Racismo.pdf
+2024-11-17 04:33:28,954 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-11-17 04:33:30,257 - __main__ - ERROR - Error initializing vector store: Could not import faiss python package. Please install it with `pip install faiss-gpu` (for CUDA supported GPU) or `pip install faiss-cpu` (depending on Python version).
+2024-11-17 04:33:30,258 - __main__ - INFO - Starting bot...
+2024-11-17 04:33:30,366 - __main__ - INFO - Bot started
+2024-11-17 04:33:31,307 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/getMe "HTTP/1.1 200 OK"
+2024-11-17 04:33:31,614 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/deleteWebhook "HTTP/1.1 200 OK"
+2024-11-17 04:33:31,616 - telegram.ext.Application - INFO - Application started
+2024-11-17 04:33:32,433 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/getUpdates "HTTP/1.1 200 OK"
+2024-11-17 04:33:32,808 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/sendMessage "HTTP/1.1 200 OK"
+2024-11-17 04:33:32,809 - __main__ - INFO - New user started the bot: 5628614147
+2024-11-17 04:33:37,305 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/getUpdates "HTTP/1.1 200 OK"
+2024-11-17 04:33:37,693 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/sendMessage "HTTP/1.1 200 OK"
+2024-11-17 04:33:41,696 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/getUpdates "HTTP/1.1 200 OK"
+2024-11-17 04:33:42,064 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/sendMessage "HTTP/1.1 200 OK"
+2024-11-17 04:33:42,084 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:33:42,106 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x3f7b for key /Subtype
+2024-11-17 04:33:42,126 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:33:42,175 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:33:42,225 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:33:42,280 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:33:42,297 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x411f for key /Subtype
+2024-11-17 04:33:42,315 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:33:42,350 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:33:42,385 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:33:42,420 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:33:42,432 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x2eea for key /Subtype
+2024-11-17 04:33:42,452 - __main__ - INFO - Successfully read PDF: ./pdfs/7 Ficha Cultura y desigualdad.pdf
+2024-11-17 04:33:42,474 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:33:42,549 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x3d7b for key /Subtype
+2024-11-17 04:33:42,564 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:33:42,610 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:33:42,657 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:33:42,773 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:33:42,808 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:33:42,853 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:33:42,880 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x6d89 for key /Subtype
+2024-11-17 04:33:42,901 - __main__ - INFO - Successfully read PDF: ./pdfs/9 Ficha LA PERSPECTIVA DECOLONIAL.pdf
+2024-11-17 04:33:42,933 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x4918 for key /Subtype
+2024-11-17 04:33:43,206 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x2762 for key /Subtype
+2024-11-17 04:33:43,215 - __main__ - INFO - Successfully read PDF: ./pdfs/13. Ficha Antropología y Salud mental.pdf
+2024-11-17 04:33:43,229 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:33:43,250 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x4c84 for key /Subtype
+2024-11-17 04:33:43,271 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:33:43,321 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:33:43,369 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:33:43,411 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:33:43,442 - __main__ - INFO - Successfully read PDF: ./pdfs/8 Ficha CULTURAS POPULARES Y CONSUMO.pdf
+2024-11-17 04:33:43,458 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:33:43,474 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x438a for key /Subtype
+2024-11-17 04:33:43,492 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:33:43,535 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:33:43,573 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:33:43,625 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:33:43,671 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:33:43,719 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:33:43,763 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:33:43,811 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:33:43,913 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:33:43,954 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:33:43,992 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:33:44,036 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:33:44,075 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:33:44,112 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:33:44,148 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:33:44,190 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:33:44,198 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x1de5 for key /Subtype
+2024-11-17 04:33:44,208 - __main__ - INFO - Successfully read PDF: ./pdfs/11 Ficha ANTROPOLOGÍA Y ESTUDIOS DE GÉNERO.pdf
+2024-11-17 04:33:44,222 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:33:44,239 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x46b7 for key /Subtype
+2024-11-17 04:33:44,261 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:33:44,281 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x4fc0 for key /Subtype
+2024-11-17 04:33:44,301 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:33:44,318 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x46db for key /Subtype
+2024-11-17 04:33:44,343 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:33:44,360 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x45ba for key /Subtype
+2024-11-17 04:33:44,383 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:33:44,401 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x4821 for key /Subtype
+2024-11-17 04:33:44,423 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:33:44,439 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x3d31 for key /Subtype
+2024-11-17 04:33:44,462 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:33:44,535 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x4051 for key /Subtype
+2024-11-17 04:33:44,554 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:33:44,564 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x2601 for key /Subtype
+2024-11-17 04:33:44,581 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:33:44,597 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x3a14 for key /Subtype
+2024-11-17 04:33:44,611 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:33:44,616 - __main__ - INFO - Successfully read PDF: ./pdfs/10. Ficha Racismo.pdf
+2024-11-17 04:33:48,348 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-11-17 04:33:49,483 - __main__ - ERROR - Error initializing vector store: Could not import faiss python package. Please install it with `pip install faiss-gpu` (for CUDA supported GPU) or `pip install faiss-cpu` (depending on Python version).
+2024-11-17 04:33:50,414 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/sendMessage "HTTP/1.1 200 OK"
+2024-11-17 04:33:51,993 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/getUpdates "HTTP/1.1 200 OK"
+2024-11-17 04:34:02,336 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/getUpdates "HTTP/1.1 200 OK"
+2024-11-17 04:34:12,679 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/getUpdates "HTTP/1.1 200 OK"
+2024-11-17 04:34:23,020 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/getUpdates "HTTP/1.1 200 OK"
+2024-11-17 04:34:33,363 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/getUpdates "HTTP/1.1 200 OK"
+2024-11-17 04:34:43,651 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/getUpdates "HTTP/1.1 200 OK"
+2024-11-17 04:34:43,895 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/getUpdates "HTTP/1.1 200 OK"
+2024-11-17 04:34:43,897 - __main__ - INFO - Received message from user 5628614147: que plantea Néstor García Canclini acerca del relativismo cultural? cita el texto de donde lo nombra...
+2024-11-17 04:34:45,037 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/sendChatAction "HTTP/1.1 200 OK"
+2024-11-17 04:34:45,038 - __main__ - WARNING - Vector store not initialized. No documents to search.
+2024-11-17 04:34:48,110 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-17 04:34:48,623 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/sendMessage "HTTP/1.1 200 OK"
+2024-11-17 04:34:48,624 - __main__ - INFO - Sent response to user 5628614147, 4 messages remaining
+2024-11-17 04:34:54,150 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/getUpdates "HTTP/1.1 200 OK"
+2024-11-17 04:35:04,493 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/getUpdates "HTTP/1.1 200 OK"
+2024-11-17 04:35:14,836 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/getUpdates "HTTP/1.1 200 OK"
+2024-11-17 04:35:25,085 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/getUpdates "HTTP/1.1 200 OK"
+2024-11-17 04:35:33,170 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/getUpdates "HTTP/1.1 200 OK"
+2024-11-17 04:35:33,172 - __main__ - INFO - Received message from user 5628614147: tienes acceso a una lista de documentos que son tu contexto en este chat verdad ?...
+2024-11-17 04:35:34,293 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/sendChatAction "HTTP/1.1 200 OK"
+2024-11-17 04:35:34,294 - __main__ - WARNING - Vector store not initialized. No documents to search.
+2024-11-17 04:35:35,824 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-17 04:35:36,197 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/sendMessage "HTTP/1.1 200 OK"
+2024-11-17 04:35:36,198 - __main__ - INFO - Sent response to user 5628614147, 3 messages remaining
+2024-11-17 04:35:43,509 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/getUpdates "HTTP/1.1 200 OK"
+2024-11-17 04:35:53,236 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/getUpdates "HTTP/1.1 200 OK"
+2024-11-17 04:35:53,237 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2024-11-17 04:35:53,237 - telegram.ext.Application - INFO - Application.stop() complete
+2024-11-17 04:39:33,302 - __main__ - INFO - Initializing bot...
+2024-11-17 04:39:33,482 - __main__ - ERROR - Error initializing vector store: 'DocumentStore' object has no attribute 'read_pdf'
+2024-11-17 04:39:33,482 - __main__ - ERROR - Error initializing DocumentStore: 'DocumentStore' object has no attribute 'read_pdf'
+2024-11-17 04:39:33,482 - __main__ - ERROR - Critical error: 'DocumentStore' object has no attribute 'read_pdf'
+2024-11-17 04:47:37,537 - __main__ - INFO - Initializing bot...
+2024-11-17 04:47:37,759 - __main__ - ERROR - Error initializing DocumentStore: 'DocumentStore' object has no attribute 'initialize_vector_store'
+2024-11-17 04:47:37,759 - __main__ - ERROR - Critical error: 'DocumentStore' object has no attribute 'initialize_vector_store'
+2024-11-17 04:49:01,146 - __main__ - INFO - Initializing bot...
+2024-11-17 04:49:01,336 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:49:01,352 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x3f7b for key /Subtype
+2024-11-17 04:49:01,369 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:49:01,405 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:49:01,440 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:49:01,472 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:49:01,488 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x411f for key /Subtype
+2024-11-17 04:49:01,505 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:49:01,600 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:49:01,636 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:49:01,674 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:49:01,685 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x2eea for key /Subtype
+2024-11-17 04:49:01,705 - __main__ - INFO - Successfully read PDF: ./pdfs/7 Ficha Cultura y desigualdad.pdf
+2024-11-17 04:49:01,705 - __main__ - INFO - Successfully loaded PDF: 7 Ficha Cultura y desigualdad.pdf
+2024-11-17 04:49:01,733 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:49:01,749 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x3d7b for key /Subtype
+2024-11-17 04:49:01,769 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:49:01,833 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:49:01,892 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:49:02,035 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:49:02,079 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:49:02,134 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:49:02,168 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x6d89 for key /Subtype
+2024-11-17 04:49:02,191 - __main__ - INFO - Successfully read PDF: ./pdfs/9 Ficha LA PERSPECTIVA DECOLONIAL.pdf
+2024-11-17 04:49:02,191 - __main__ - INFO - Successfully loaded PDF: 9 Ficha LA PERSPECTIVA DECOLONIAL.pdf
+2024-11-17 04:49:02,242 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x4918 for key /Subtype
+2024-11-17 04:49:02,581 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x2762 for key /Subtype
+2024-11-17 04:49:02,590 - __main__ - INFO - Successfully read PDF: ./pdfs/13. Ficha Antropología y Salud mental.pdf
+2024-11-17 04:49:02,591 - __main__ - INFO - Successfully loaded PDF: 13. Ficha Antropología y Salud mental.pdf
+2024-11-17 04:49:02,627 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:49:02,649 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x4c84 for key /Subtype
+2024-11-17 04:49:02,670 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:49:02,720 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:49:02,767 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:49:02,810 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:49:02,840 - __main__ - INFO - Successfully read PDF: ./pdfs/8 Ficha CULTURAS POPULARES Y CONSUMO.pdf
+2024-11-17 04:49:02,840 - __main__ - INFO - Successfully loaded PDF: 8 Ficha CULTURAS POPULARES Y CONSUMO.pdf
+2024-11-17 04:49:02,869 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:49:02,887 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x438a for key /Subtype
+2024-11-17 04:49:02,905 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:49:02,951 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:49:03,000 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:49:03,052 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:49:03,179 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:49:03,222 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:49:03,267 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:49:03,334 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:49:03,388 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:49:03,428 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:49:03,469 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:49:03,516 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:49:03,563 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:49:03,606 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:49:03,646 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:49:03,695 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:49:03,703 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x1de5 for key /Subtype
+2024-11-17 04:49:03,716 - __main__ - INFO - Successfully read PDF: ./pdfs/11 Ficha ANTROPOLOGÍA Y ESTUDIOS DE GÉNERO.pdf
+2024-11-17 04:49:03,717 - __main__ - INFO - Successfully loaded PDF: 11 Ficha ANTROPOLOGÍA Y ESTUDIOS DE GÉNERO.pdf
+2024-11-17 04:49:03,743 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:49:03,761 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x46b7 for key /Subtype
+2024-11-17 04:49:03,785 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:49:03,805 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x4fc0 for key /Subtype
+2024-11-17 04:49:03,839 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:49:03,856 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x46db for key /Subtype
+2024-11-17 04:49:03,929 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:49:03,945 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x45ba for key /Subtype
+2024-11-17 04:49:03,970 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:49:03,988 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x4821 for key /Subtype
+2024-11-17 04:49:04,011 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:49:04,026 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x3d31 for key /Subtype
+2024-11-17 04:49:04,051 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:49:04,067 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x4051 for key /Subtype
+2024-11-17 04:49:04,086 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:49:04,096 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x2601 for key /Subtype
+2024-11-17 04:49:04,111 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:49:04,125 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x3a14 for key /Subtype
+2024-11-17 04:49:04,140 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:49:04,143 - __main__ - INFO - Successfully read PDF: ./pdfs/10. Ficha Racismo.pdf
+2024-11-17 04:49:04,143 - __main__ - INFO - Successfully loaded PDF: 10. Ficha Racismo.pdf
+2024-11-17 04:49:07,168 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-11-17 04:49:08,194 - __main__ - ERROR - Error initializing vector store: Could not import faiss python package. Please install it with `pip install faiss-gpu` (for CUDA supported GPU) or `pip install faiss-cpu` (depending on Python version).
+2024-11-17 04:49:08,194 - __main__ - ERROR - Error initializing DocumentStore: Could not import faiss python package. Please install it with `pip install faiss-gpu` (for CUDA supported GPU) or `pip install faiss-cpu` (depending on Python version).
+2024-11-17 04:49:08,194 - __main__ - ERROR - Critical error: Could not import faiss python package. Please install it with `pip install faiss-gpu` (for CUDA supported GPU) or `pip install faiss-cpu` (depending on Python version).
+2024-11-17 04:49:52,781 - __main__ - INFO - Initializing bot...
+2024-11-17 04:49:53,099 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:49:53,133 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x3f7b for key /Subtype
+2024-11-17 04:49:53,158 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:49:53,201 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:49:53,322 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:49:53,368 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:49:53,391 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x411f for key /Subtype
+2024-11-17 04:49:53,425 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:49:53,529 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:49:53,573 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:49:53,630 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:49:53,666 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x2eea for key /Subtype
+2024-11-17 04:49:53,719 - __main__ - INFO - Successfully read PDF: ./pdfs/7 Ficha Cultura y desigualdad.pdf
+2024-11-17 04:49:53,719 - __main__ - INFO - Successfully loaded PDF: 7 Ficha Cultura y desigualdad.pdf
+2024-11-17 04:49:53,767 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:49:53,787 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x3d7b for key /Subtype
+2024-11-17 04:49:53,805 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:49:53,850 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:49:53,897 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:49:54,068 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:49:54,191 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:49:54,315 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:49:54,398 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x6d89 for key /Subtype
+2024-11-17 04:49:54,433 - __main__ - INFO - Successfully read PDF: ./pdfs/9 Ficha LA PERSPECTIVA DECOLONIAL.pdf
+2024-11-17 04:49:54,434 - __main__ - INFO - Successfully loaded PDF: 9 Ficha LA PERSPECTIVA DECOLONIAL.pdf
+2024-11-17 04:49:54,477 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x4918 for key /Subtype
+2024-11-17 04:49:54,766 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x2762 for key /Subtype
+2024-11-17 04:49:54,774 - __main__ - INFO - Successfully read PDF: ./pdfs/13. Ficha Antropología y Salud mental.pdf
+2024-11-17 04:49:54,774 - __main__ - INFO - Successfully loaded PDF: 13. Ficha Antropología y Salud mental.pdf
+2024-11-17 04:49:54,807 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:49:54,848 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x4c84 for key /Subtype
+2024-11-17 04:49:54,895 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:49:54,967 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:49:55,016 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:49:55,061 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:49:55,091 - __main__ - INFO - Successfully read PDF: ./pdfs/8 Ficha CULTURAS POPULARES Y CONSUMO.pdf
+2024-11-17 04:49:55,091 - __main__ - INFO - Successfully loaded PDF: 8 Ficha CULTURAS POPULARES Y CONSUMO.pdf
+2024-11-17 04:49:55,109 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:49:55,126 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x438a for key /Subtype
+2024-11-17 04:49:55,146 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:49:55,195 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:49:55,241 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:49:55,279 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:49:55,372 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:49:55,434 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:49:55,500 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:49:55,543 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:49:55,586 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:49:55,630 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:49:55,675 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:49:55,720 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:49:55,760 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:49:55,800 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:49:55,840 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:49:55,884 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:49:55,891 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x1de5 for key /Subtype
+2024-11-17 04:49:55,902 - __main__ - INFO - Successfully read PDF: ./pdfs/11 Ficha ANTROPOLOGÍA Y ESTUDIOS DE GÉNERO.pdf
+2024-11-17 04:49:55,902 - __main__ - INFO - Successfully loaded PDF: 11 Ficha ANTROPOLOGÍA Y ESTUDIOS DE GÉNERO.pdf
+2024-11-17 04:49:55,923 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:49:55,945 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x46b7 for key /Subtype
+2024-11-17 04:49:55,972 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:49:55,992 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x4fc0 for key /Subtype
+2024-11-17 04:49:56,018 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:49:56,036 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x46db for key /Subtype
+2024-11-17 04:49:56,112 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:49:56,130 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x45ba for key /Subtype
+2024-11-17 04:49:56,155 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:49:56,178 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x4821 for key /Subtype
+2024-11-17 04:49:56,246 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:49:56,263 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x3d31 for key /Subtype
+2024-11-17 04:49:56,296 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:49:56,310 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x4051 for key /Subtype
+2024-11-17 04:49:56,329 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:49:56,338 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x2601 for key /Subtype
+2024-11-17 04:49:56,353 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:49:56,367 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x3a14 for key /Subtype
+2024-11-17 04:49:56,381 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:49:56,384 - __main__ - INFO - Successfully read PDF: ./pdfs/10. Ficha Racismo.pdf
+2024-11-17 04:49:56,384 - __main__ - INFO - Successfully loaded PDF: 10. Ficha Racismo.pdf
+2024-11-17 04:50:00,008 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-11-17 04:50:01,130 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2024-11-17 04:50:03,576 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2024-11-17 04:50:03,611 - __main__ - INFO - ✅ Vector store initialized with 241 text chunks from 6 PDFs
+2024-11-17 04:50:03,611 - __main__ - INFO - DocumentStore initialized with directory: ./pdfs
+2024-11-17 04:50:03,611 - __main__ - INFO - Starting bot...
+2024-11-17 04:50:03,726 - __main__ - INFO - Bot started
+2024-11-17 04:50:04,716 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/getMe "HTTP/1.1 200 OK"
+2024-11-17 04:50:05,023 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/deleteWebhook "HTTP/1.1 200 OK"
+2024-11-17 04:50:05,026 - telegram.ext.Application - INFO - Application started
+2024-11-17 04:50:15,980 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/getUpdates "HTTP/1.1 200 OK"
+2024-11-17 04:50:24,359 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/getUpdates "HTTP/1.1 200 OK"
+2024-11-17 04:50:25,238 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/sendMessage "HTTP/1.1 200 OK"
+2024-11-17 04:50:25,239 - __main__ - INFO - New user started the bot: 5628614147
+2024-11-17 04:50:29,790 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/getUpdates "HTTP/1.1 200 OK"
+2024-11-17 04:50:30,174 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/sendMessage "HTTP/1.1 200 OK"
+2024-11-17 04:50:30,194 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:50:30,214 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x3f7b for key /Subtype
+2024-11-17 04:50:30,232 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:50:30,272 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:50:30,310 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:50:30,346 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:50:30,362 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x411f for key /Subtype
+2024-11-17 04:50:30,379 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:50:30,413 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:50:30,447 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:50:30,545 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:50:30,557 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x2eea for key /Subtype
+2024-11-17 04:50:30,576 - __main__ - INFO - Successfully read PDF: ./pdfs/7 Ficha Cultura y desigualdad.pdf
+2024-11-17 04:50:30,577 - __main__ - INFO - Successfully loaded PDF: 7 Ficha Cultura y desigualdad.pdf
+2024-11-17 04:50:30,604 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:50:30,620 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x3d7b for key /Subtype
+2024-11-17 04:50:30,637 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:50:30,687 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:50:30,734 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:50:30,850 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:50:30,885 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:50:30,929 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:50:30,955 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x6d89 for key /Subtype
+2024-11-17 04:50:30,975 - __main__ - INFO - Successfully read PDF: ./pdfs/9 Ficha LA PERSPECTIVA DECOLONIAL.pdf
+2024-11-17 04:50:30,975 - __main__ - INFO - Successfully loaded PDF: 9 Ficha LA PERSPECTIVA DECOLONIAL.pdf
+2024-11-17 04:50:31,021 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x4918 for key /Subtype
+2024-11-17 04:50:31,314 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x2762 for key /Subtype
+2024-11-17 04:50:31,322 - __main__ - INFO - Successfully read PDF: ./pdfs/13. Ficha Antropología y Salud mental.pdf
+2024-11-17 04:50:31,322 - __main__ - INFO - Successfully loaded PDF: 13. Ficha Antropología y Salud mental.pdf
+2024-11-17 04:50:31,346 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:50:31,373 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x4c84 for key /Subtype
+2024-11-17 04:50:31,395 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:50:31,445 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:50:31,492 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:50:31,536 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:50:31,566 - __main__ - INFO - Successfully read PDF: ./pdfs/8 Ficha CULTURAS POPULARES Y CONSUMO.pdf
+2024-11-17 04:50:31,567 - __main__ - INFO - Successfully loaded PDF: 8 Ficha CULTURAS POPULARES Y CONSUMO.pdf
+2024-11-17 04:50:31,586 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:50:31,603 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x438a for key /Subtype
+2024-11-17 04:50:31,622 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:50:31,665 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:50:31,706 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:50:31,744 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:50:31,798 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:50:31,840 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:50:31,929 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:50:31,971 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:50:32,011 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:50:32,051 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:50:32,091 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:50:32,134 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:50:32,173 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:50:32,209 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:50:32,245 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:50:32,287 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:50:32,294 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x1de5 for key /Subtype
+2024-11-17 04:50:32,304 - __main__ - INFO - Successfully read PDF: ./pdfs/11 Ficha ANTROPOLOGÍA Y ESTUDIOS DE GÉNERO.pdf
+2024-11-17 04:50:32,304 - __main__ - INFO - Successfully loaded PDF: 11 Ficha ANTROPOLOGÍA Y ESTUDIOS DE GÉNERO.pdf
+2024-11-17 04:50:32,329 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:50:32,347 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x46b7 for key /Subtype
+2024-11-17 04:50:32,371 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:50:32,390 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x4fc0 for key /Subtype
+2024-11-17 04:50:32,413 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:50:32,430 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x46db for key /Subtype
+2024-11-17 04:50:32,454 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:50:32,471 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x45ba for key /Subtype
+2024-11-17 04:50:32,494 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:50:32,564 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x4821 for key /Subtype
+2024-11-17 04:50:32,585 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:50:32,600 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x3d31 for key /Subtype
+2024-11-17 04:50:32,624 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:50:32,640 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x4051 for key /Subtype
+2024-11-17 04:50:32,661 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:50:32,671 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x2601 for key /Subtype
+2024-11-17 04:50:32,693 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:50:32,707 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x3a14 for key /Subtype
+2024-11-17 04:50:32,721 - PyPDF2.generic._data_structures - WARNING - Multiple definitions in dictionary at byte 0x7d for key /Subtype
+2024-11-17 04:50:32,724 - __main__ - INFO - Successfully read PDF: ./pdfs/10. Ficha Racismo.pdf
+2024-11-17 04:50:32,724 - __main__ - INFO - Successfully loaded PDF: 10. Ficha Racismo.pdf
+2024-11-17 04:50:35,336 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-11-17 04:50:36,368 - __main__ - INFO - ✅ Vector store initialized with 241 text chunks from 6 PDFs
+2024-11-17 04:50:37,389 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/sendMessage "HTTP/1.1 200 OK"
+2024-11-17 04:50:40,147 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/getUpdates "HTTP/1.1 200 OK"
+2024-11-17 04:50:50,459 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/getUpdates "HTTP/1.1 200 OK"
+2024-11-17 04:50:57,699 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/getUpdates "HTTP/1.1 200 OK"
+2024-11-17 04:50:57,701 - __main__ - INFO - Received message from user 5628614147: hablame acerca de la ficha de antropologia y salud mental...
+2024-11-17 04:50:58,649 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/sendChatAction "HTTP/1.1 200 OK"
+2024-11-17 04:50:59,718 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-11-17 04:50:59,735 - __main__ - INFO - Found 3 relevant contexts for query
+2024-11-17 04:51:02,677 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-17 04:51:03,061 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/sendMessage "HTTP/1.1 200 OK"
+2024-11-17 04:51:03,063 - __main__ - INFO - Sent response to user 5628614147, 4 messages remaining
+2024-11-17 04:51:07,964 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/getUpdates "HTTP/1.1 200 OK"
+2024-11-17 04:51:18,214 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/getUpdates "HTTP/1.1 200 OK"
+2024-11-17 04:51:28,493 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/getUpdates "HTTP/1.1 200 OK"
+2024-11-17 04:51:38,823 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/getUpdates "HTTP/1.1 200 OK"
+2024-11-17 04:51:39,600 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/getUpdates "HTTP/1.1 200 OK"
+2024-11-17 04:51:39,602 - __main__ - INFO - Received message from user 5628614147: cuales son los conceptos clave acerca de la relacion entre estudios de genero y antropologia?...
+2024-11-17 04:51:40,523 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/sendChatAction "HTTP/1.1 200 OK"
+2024-11-17 04:51:41,561 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-11-17 04:51:41,564 - __main__ - INFO - Found 3 relevant contexts for query
+2024-11-17 04:51:46,607 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-17 04:51:47,529 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/sendMessage "HTTP/1.1 200 OK"
+2024-11-17 04:51:47,531 - __main__ - INFO - Sent response to user 5628614147, 3 messages remaining
+2024-11-17 04:51:49,862 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/getUpdates "HTTP/1.1 200 OK"
+2024-11-17 04:52:00,113 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/getUpdates "HTTP/1.1 200 OK"
+2024-11-17 04:52:10,370 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/getUpdates "HTTP/1.1 200 OK"
+2024-11-17 04:52:20,670 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/getUpdates "HTTP/1.1 200 OK"
+2024-11-17 04:52:31,048 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/getUpdates "HTTP/1.1 200 OK"
+2024-11-17 04:52:41,299 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/getUpdates "HTTP/1.1 200 OK"
+2024-11-17 04:52:51,590 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/getUpdates "HTTP/1.1 200 OK"
+2024-11-17 04:53:01,863 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/getUpdates "HTTP/1.1 200 OK"
+2024-11-17 04:53:12,215 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/getUpdates "HTTP/1.1 200 OK"
+2024-11-17 04:53:22,521 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/getUpdates "HTTP/1.1 200 OK"
+2024-11-17 04:53:32,788 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/getUpdates "HTTP/1.1 200 OK"
+2024-11-17 04:53:43,041 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/getUpdates "HTTP/1.1 200 OK"
+2024-11-17 04:53:53,304 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/getUpdates "HTTP/1.1 200 OK"
+2024-11-17 04:53:53,591 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/getUpdates "HTTP/1.1 200 OK"
+2024-11-17 04:53:53,592 - __main__ - INFO - Received message from user 5628614147: expresa y desarrolla los conceptos mas importantes presentados en Ficha CULTURAS POPULARES Y CONSUMO...
+2024-11-17 04:53:54,546 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/sendChatAction "HTTP/1.1 200 OK"
+2024-11-17 04:53:55,355 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-11-17 04:53:55,358 - __main__ - INFO - Found 3 relevant contexts for query
+2024-11-17 04:54:01,266 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-17 04:54:02,193 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/sendMessage "HTTP/1.1 200 OK"
+2024-11-17 04:54:02,194 - __main__ - INFO - Sent response to user 5628614147, 2 messages remaining
+2024-11-17 04:54:03,927 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/getUpdates "HTTP/1.1 200 OK"
+2024-11-17 04:54:14,176 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/getUpdates "HTTP/1.1 200 OK"
+2024-11-17 04:54:24,511 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/getUpdates "HTTP/1.1 200 OK"
+2024-11-17 04:54:34,854 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/getUpdates "HTTP/1.1 200 OK"
+2024-11-17 04:54:45,125 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/getUpdates "HTTP/1.1 200 OK"
+2024-11-17 04:54:55,373 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/getUpdates "HTTP/1.1 200 OK"
+2024-11-17 04:55:05,677 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/getUpdates "HTTP/1.1 200 OK"
+2024-11-17 04:55:16,021 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/getUpdates "HTTP/1.1 200 OK"
+2024-11-17 04:55:26,270 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/getUpdates "HTTP/1.1 200 OK"
+2024-11-17 04:55:36,604 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/getUpdates "HTTP/1.1 200 OK"
+2024-11-17 04:55:46,946 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/getUpdates "HTTP/1.1 200 OK"
+2024-11-17 04:55:57,289 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/getUpdates "HTTP/1.1 200 OK"
+2024-11-17 04:56:06,268 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/getUpdates "HTTP/1.1 200 OK"
+2024-11-17 04:56:06,270 - __main__ - INFO - Received message from user 5628614147: desarrolla todo lo que puedas acerca de Desigualdad en Producción y Consumo , recuerda utilizar el l...
+2024-11-17 04:56:07,171 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/sendChatAction "HTTP/1.1 200 OK"
+2024-11-17 04:56:08,041 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-11-17 04:56:08,044 - __main__ - INFO - Found 3 relevant contexts for query
+2024-11-17 04:56:13,672 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-17 04:56:14,617 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/sendMessage "HTTP/1.1 200 OK"
+2024-11-17 04:56:14,618 - __main__ - INFO - Sent response to user 5628614147, 1 messages remaining
+2024-11-17 04:56:16,552 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/getUpdates "HTTP/1.1 200 OK"
+2024-11-17 04:56:26,874 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/getUpdates "HTTP/1.1 200 OK"
+2024-11-17 04:56:37,140 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/getUpdates "HTTP/1.1 200 OK"
+2024-11-17 04:56:47,466 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/getUpdates "HTTP/1.1 200 OK"
+2024-11-17 04:56:57,808 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/getUpdates "HTTP/1.1 200 OK"
+2024-11-17 04:57:08,152 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/getUpdates "HTTP/1.1 200 OK"
+2024-11-17 04:57:18,495 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/getUpdates "HTTP/1.1 200 OK"
+2024-11-17 04:57:28,837 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/getUpdates "HTTP/1.1 200 OK"
+2024-11-17 04:57:32,831 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7802130942:AAFuKDJ4u6-D4q0CUXXHs8aArH_zvkHUFy0/getUpdates "HTTP/1.1 200 OK"
+2024-11-17 04:57:32,832 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2024-11-17 04:57:32,833 - telegram.ext.Application - INFO - Application.stop() complete
