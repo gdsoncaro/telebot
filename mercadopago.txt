@@ -1,0 +1,142 @@
+# Setup Guide: Telegram Bot with Mercado Pago Integration
+
+## Project Structure
+```
+project-root/
+├── .env                    # Environment variables for bot
+├── bot.py                  # Main Telegram bot code
+├── pdfs/                   # Directory for PDF files
+├── webhook-handler/        # Separate directory for webhook
+    ├── api/
+    │   └── webhook.js      # Webhook handler code
+    ├── package.json        # Node.js dependencies
+    └── vercel.json         # Vercel configuration
+```
+
+## Step-by-Step Setup Instructions
+
+### 1. Telegram Bot Setup
+1. Create new bot with BotFather
+2. Note down the bot token
+3. Create project directory and initialize Python environment:
+   ```bash
+   mkdir claude-bot-project
+   cd claude-bot-project
+   python -m venv venv
+   source venv/bin/activate  # or .\venv\Scripts\activate on Windows
+   ```
+4. Install required Python packages:
+   ```bash
+   pip install python-telegram-bot anthropic mercadopago python-dotenv PyPDF2 langchain langchain-openai faiss-cpu
+   ```
+5. Create .env file with:
+   - TELEGRAM_TOKEN_CLAUDE
+   - ANTHROPIC_API_KEY
+   - OPENAI_API_KEY
+   - MERCADOPAGO_ACCESS_TOKEN
+   - INITIAL_MESSAGES=3
+
+### 2. Mercado Pago Setup
+1. Create Mercado Pago developer account
+2. Get access token from Developer Dashboard
+3. Test account setup:
+   - Create test user
+   - Add test payment methods
+   - Note down access token
+
+### 3. Webhook Handler Setup (Vercel)
+1. Create webhook directory:
+   ```bash
+   mkdir webhook-handler
+   cd webhook-handler
+   ```
+2. Initialize Node.js project:
+   ```bash
+   npm init -y
+   npm install express mercadopago
+   ```
+3. Create necessary files:
+   - api/webhook.js
+   - vercel.json
+4. Deploy to Vercel:
+   ```bash
+   npm install -g vercel
+   vercel login
+   vercel deploy
+   ```
+5. Set environment variables in Vercel dashboard:
+   - MERCADOPAGO_ACCESS_TOKEN
+
+### 4. Domain Configuration (Namecheap)
+1. Log into Namecheap dashboard
+2. Go to Domain List → filmavolando.com → Manage
+3. Go to Advanced DNS
+4. Add CNAME Record:
+   - Host: webhook
+   - Value: cname.vercel-dns.com
+   - TTL: Automatic
+5. Wait for DNS propagation (can take up to 48 hours)
+
+### 5. Connecting Everything
+1. Update bot.py with webhook URL:
+   ```python
+   "notification_url": "https://webhook.filmavolando.com/api/mercadopago"
+   ```
+2. Verify webhook URL in Vercel dashboard
+3. Test payment flow:
+   - Use bot until messages run out
+   - Generate QR code
+   - Make test payment
+   - Check Vercel logs
+   - Verify message count updates
+
+### 6. Running the Bot
+1. Ensure PDFs are in the pdfs/ directory
+2. Activate virtual environment:
+   ```bash
+   source venv/bin/activate  # or .\venv\Scripts\activate on Windows
+   ```
+3. Run the bot:
+   ```bash
+   python bot.py
+   ```
+
+## Testing & Verification
+1. Test bot commands:
+   - /start
+   - /messages
+   - /check_payment
+2. Monitor logs:
+   - Bot logs in bot.log
+   - Webhook logs in Vercel dashboard
+3. Test payment flow with test accounts
+
+## Maintenance
+1. Regular checks:
+   - Vercel deployment status
+   - Bot uptime
+   - Payment processing
+2. Monitor:
+   - Mercado Pago dashboard
+   - Vercel logs
+   - Bot logs
+
+## Troubleshooting
+1. Payment issues:
+   - Check Mercado Pago dashboard
+   - Verify webhook logs
+   - Confirm environment variables
+2. Bot issues:
+   - Check bot.log
+   - Verify PDF loading
+   - Test message counting
+3. Webhook issues:
+   - Check Vercel logs
+   - Verify DNS settings
+   - Test webhook endpoint
+
+## Security Notes
+- Keep all tokens and credentials secure
+- Don't commit .env file
+- Use test accounts for development
+- Monitor webhook access logs
